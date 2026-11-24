@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37906.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Toli_bichig setup", "Toli_bichig setup\Toli_bichig setup.vdproj", "{61009B9E-05BA-DE7C-BE32-45D863EABEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61009B9E-05BA-DE7C-BE32-45D863EABEB5}.Debug|Default.ActiveCfg = Debug
+		{61009B9E-05BA-DE7C-BE32-45D863EABEB5}.Debug|Default.Build.0 = Debug
+		{61009B9E-05BA-DE7C-BE32-45D863EABEB5}.Release|Default.ActiveCfg = Release
+		{61009B9E-05BA-DE7C-BE32-45D863EABEB5}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06484CFF-11BF-4339-8E65-00F9199978E5}
+	EndGlobalSection
+EndGlobal
